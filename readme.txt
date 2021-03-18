@@ -4,3 +4,4 @@ Modify it and push it to remote repositories.
 Creating a new branch is quick.
 Master
 Feature1.
+Branch Management Strategy.
